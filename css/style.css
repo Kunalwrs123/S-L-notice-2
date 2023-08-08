@@ -1,0 +1,34 @@
+.text {
+           
+           
+    /* padding: 100px; */
+}
+
+.only-for {
+font-size: 10rem;
+
+line-height: 1.5;
+
+
+
+
+}
+.only-for-div {
+margin: 150px 100px 0;
+}
+.girls-and-family {
+font-size: 5rem;
+font-weight: bold;
+line-height: 1.5;
+margin-bottom: 100px;
+}
+.girls-and-family-div {
+margin: 0 50px 100px;
+}
+.notice {
+border: 30px solid;
+background-color: lightgray;
+color: darkred;
+
+height: 80vh;
+}
